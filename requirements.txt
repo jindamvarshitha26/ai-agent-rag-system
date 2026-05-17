@@ -1,0 +1,28 @@
+# Core LLM and RAG
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+langchain-experimental
+chromadb
+
+# PDF/Text handling
+PyMuPDF
+python-dotenv
+
+# Backend
+fastapi
+uvicorn
+
+# Frontend (optional now, needed next step)
+streamlit
+
+# Typing + API
+pydantic
+
+# CORS
+httpx
+
+# NGROk
+ngrok
+pyngrok
