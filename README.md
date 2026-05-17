@@ -45,10 +45,6 @@ Create a `.env` file in the project root (or edit the existing one):
 ```env
 GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
 NGROK_AUTHTOKEN = "YOUR_NGROK_AUTHTOKEN"
-```
-
-- **Google API Key:** Get from [Google AI Studio](https://aistudio.google.com/app/apikey)
-- **ngrok Auth Token:** Get from [ngrok dashboard](https://dashboard.ngrok.com/get-started/your-authtoken)
 
 ---
 
@@ -183,7 +179,3 @@ MIT License.
 ## Credits
 
 Built with FastAPI, Streamlit, Google Gemini, and LangChain / LangGraph.
-
----
-
-**Enjoy your AI-powered document**
